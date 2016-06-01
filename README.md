@@ -5,3 +5,4 @@ It's a game 'Hangman' with two different versions. I will be grateful if you giv
 - This version works with words between 5 and 12 letters.
 - Guesser will see first and last letter of word from start
 - Gallows is drawn before play
+- Over 50,000 lines of code
