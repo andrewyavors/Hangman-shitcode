@@ -22,6 +22,7 @@ It's a game 'Hangman' with two different versions. I will be grateful if you giv
 - Over 21,000 lines of code
 
 ### HowTo
+- Works only with **Python 3.x**
 - Open terminal/command line
 - Write `python -i nameoffile.py`
 
